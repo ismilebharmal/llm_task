@@ -1,0 +1,498 @@
+{
+  "id": "PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+  "title": "Matplotlib Tutorials",
+  "availability": "public",
+  "channel_follower_count": null,
+  "description": "In this Python Programming series, we will be learning how to use the Matplotlib library. Matplotlib allows us to create some great looking plots in order to visualize our data in easy to digest formats. This series covers a wide variety of topics such as: customizing our plots, different plot types, plotting live data in real-time, and more.",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB3eTFRmTuCTxImZHp5RgTjF30KkQ",
+      "height": 94,
+      "width": 168,
+      "id": "0",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAdheczOd_9AI2rChVIf_JNMFJnqw",
+      "height": 110,
+      "width": 196,
+      "id": "1",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCw08o-ESNj1rX1w4G0f3s4xJy2jg",
+      "height": 138,
+      "width": 246,
+      "id": "2",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdkcQds1mirBmBw9Nnh8j4vYDAwA",
+      "height": 188,
+      "width": 336,
+      "id": "3",
+      "resolution": "336x188"
+    }
+  ],
+  "modified_date": "20190625",
+  "view_count": 986846,
+  "playlist_count": 10,
+  "channel": "Corey Schafer",
+  "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+  "uploader_id": "@coreyms",
+  "uploader": "Corey Schafer",
+  "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+  "uploader_url": "https://www.youtube.com/@coreyms",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "UO98lJQ3QGI",
+      "url": "https://www.youtube.com/watch?v=UO98lJQ3QGI",
+      "title": "Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots",
+      "description": null,
+      "duration": 2101,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaA1aegoEXaNZn8pgdqoFO2e5PGg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDWvM-o-dKXljsSZhKc1vtN09lvQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw8VapGE2JujsJIL-eI3GjfbSgPQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UO98lJQ3QGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDFvU9-MBMDOjJOwpHl2oVRMHpaQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 990000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "nKxLfUrkLE8",
+      "url": "https://www.youtube.com/watch?v=nKxLfUrkLE8",
+      "title": "Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs",
+      "description": null,
+      "duration": 2066,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/nKxLfUrkLE8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDL6U1dcQxBNsBkTu-dROATyAlCIA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nKxLfUrkLE8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwjarmn4gOB6sV-q2ucIhpQhM-Qw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nKxLfUrkLE8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtQtByaBf50PKAHRgkXDnd7bZUHg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nKxLfUrkLE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADWNAuFf45pfFy6U7zH2_7dsm22A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 332000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "MPiz50TsyF0",
+      "url": "https://www.youtube.com/watch?v=MPiz50TsyF0",
+      "title": "Matplotlib Tutorial (Part 3): Pie Charts",
+      "description": null,
+      "duration": 1022,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MPiz50TsyF0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDR9P6KF1lzaboXAKm1f-txIO2VQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MPiz50TsyF0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXMmYu69ksa64--XF7ck2Z3gUhnQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MPiz50TsyF0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCanmMF304bmSNN_Aeqa8otQzSiQA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MPiz50TsyF0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ4vcp28LLIVcddM1NkJ7c4scn6A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 150000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "xN-Supd4H38",
+      "url": "https://www.youtube.com/watch?v=xN-Supd4H38",
+      "title": "Matplotlib Tutorial (Part 4): Stack Plots",
+      "description": null,
+      "duration": 889,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/xN-Supd4H38/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDrJ3ZZIAVpX-ACmbyapHyVd52vg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xN-Supd4H38/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7eCHP_miknshFcZYg3GQKMDLMSw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xN-Supd4H38/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApw81eZp4cHvxspoNaKH-WBwgHnw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xN-Supd4H38/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5COjHstbmIjN6ou0cRGBGGWU1Kg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 104000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "x0Uguu7gqgk",
+      "url": "https://www.youtube.com/watch?v=x0Uguu7gqgk",
+      "title": "Matplotlib Tutorial (Part 5): Filling Area on Line Plots",
+      "description": null,
+      "duration": 918,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/x0Uguu7gqgk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCY7EPhTksF9xDsjjteKIOHVRRqCg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x0Uguu7gqgk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAG9A3sQl2I0JbWPcOvrvyt2YvCxg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x0Uguu7gqgk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzjLGJ-uhpv_eviIrlumbQH9M4BA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/x0Uguu7gqgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj72hkiO0i-aOELUvzm9L7VKI1bg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 98000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "XDv6T4a0RNc",
+      "url": "https://www.youtube.com/watch?v=XDv6T4a0RNc",
+      "title": "Matplotlib Tutorial (Part 6): Histograms",
+      "description": null,
+      "duration": 996,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XDv6T4a0RNc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2QgoLZeXXg8lyGT1YvbdTRzYB9g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDv6T4a0RNc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAh9Z_QAGM-Jl1VX8VGlcHpFQ_REQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDv6T4a0RNc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfQMQoE0gyQkjlrZoTaomNDkj1Ug",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XDv6T4a0RNc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb2fVt8JA_7d1Pk3A7o2SW0lzvyQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 180000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "zZZ_RCwp49g",
+      "url": "https://www.youtube.com/watch?v=zZZ_RCwp49g",
+      "title": "Matplotlib Tutorial (Part 7): Scatter Plots",
+      "description": null,
+      "duration": 1284,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zZZ_RCwp49g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNTl_Me4CkHODj5nVBZ2FGRlgGVA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zZZ_RCwp49g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnkYVD-OgC2Z6F-owTl2kyLXceEQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zZZ_RCwp49g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCecIA8HsM8uj4lSf-TEdn1gMIoeg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zZZ_RCwp49g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkrOgQcFTjBX1HW7AWTI5rpYfHWg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 171000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_LWjaAiKaf8",
+      "url": "https://www.youtube.com/watch?v=_LWjaAiKaf8",
+      "title": "Matplotlib Tutorial (Part 8): Plotting Time Series Data",
+      "description": null,
+      "duration": 1029,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_LWjaAiKaf8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiIqKA26Tm4JY_6wUilt32Tb-w5A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_LWjaAiKaf8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgRw3MyCJrk16ndx2W8tt2TTjg3w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_LWjaAiKaf8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3VSZElawZwKbzjpSyZCVmyWckDA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_LWjaAiKaf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzly8PL8nDVw7eWa7ifZJ0Tld_VQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 179000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Ercd-Ip5PfQ",
+      "url": "https://www.youtube.com/watch?v=Ercd-Ip5PfQ",
+      "title": "Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time",
+      "description": null,
+      "duration": 1234,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ercd-Ip5PfQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFzXXNCeP5p7GTzGAceZVYMTOEwg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ercd-Ip5PfQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIL9QKdpXo6JtvhgVVxvvq75V7Nw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ercd-Ip5PfQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOrjUya1nCs9DRXJMnyIvrOaT-zg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ercd-Ip5PfQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-b8lsarDOCGbzo-3ZdTmbIpvdsA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 397000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "XFZRVnP-MTU",
+      "url": "https://www.youtube.com/watch?v=XFZRVnP-MTU",
+      "title": "Matplotlib Tutorial (Part 10): Subplots",
+      "description": null,
+      "duration": 1282,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XFZRVnP-MTU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTGtPEznH0kNt4e-Q67xVIgVfmUA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XFZRVnP-MTU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuOHAmky6hBcp2fJsIfoXcNXwOCw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XFZRVnP-MTU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDocSJ1BgHlWMqMJwn6e5EZ-BHkbQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XFZRVnP-MTU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxdYzamZTmWaVeKCe0qzvzP_zLUw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 235000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+  "original_url": "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1716915594
+}

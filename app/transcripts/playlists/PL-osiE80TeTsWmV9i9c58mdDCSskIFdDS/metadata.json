@@ -1,0 +1,542 @@
+{
+  "id": "PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+  "title": "Pandas Tutorials",
+  "availability": "public",
+  "channel_follower_count": null,
+  "description": "",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBtiGWR6d6kcyODrgmVy2ZKGP84xQ",
+      "height": 94,
+      "width": 168,
+      "id": "0",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB0txX0wvR9Apsmt3e56NH_vLRXfA",
+      "height": 110,
+      "width": 196,
+      "id": "1",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_hsTESmBhsjjp2nnZ1HfRNhItng",
+      "height": 138,
+      "width": 246,
+      "id": "2",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDepcsh8l5Ek5kpxptU4lOBbtRl2Q",
+      "height": 188,
+      "width": 336,
+      "id": "3",
+      "resolution": "336x188"
+    }
+  ],
+  "modified_date": "20200401",
+  "view_count": 2362193,
+  "playlist_count": 11,
+  "channel": "Corey Schafer",
+  "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+  "uploader_id": "@coreyms",
+  "uploader": "Corey Schafer",
+  "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+  "uploader_url": "https://www.youtube.com/@coreyms",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "ZyhVh-qRZPA",
+      "url": "https://www.youtube.com/watch?v=ZyhVh-qRZPA",
+      "title": "Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data",
+      "description": null,
+      "duration": 1381,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPGE35eClGpH2Cfy9C_qprMTDKUw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVJwlwrJ4yz6ZBlTjrtXeopRQ7fQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0TxhPjs_MDmJ6_Ff9V4OKA6XlAA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLTafRLtqFcYm1jsBXkiSpVpsMuA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1300000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "zmdjNSmRXF4",
+      "url": "https://www.youtube.com/watch?v=zmdjNSmRXF4",
+      "title": "Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns",
+      "description": null,
+      "duration": 2015,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zmdjNSmRXF4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_U7xVkKy246Ga_zKf21AuKnJiHA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmdjNSmRXF4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCcsqDMIAsJFTUaF-vZPmO-ONMNmQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmdjNSmRXF4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5V040gUNnV7Tdb-uTa8khCotjtA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmdjNSmRXF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_Wndm42z-lFqa7sWUs5rTso8EsA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 616000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "W9XjRYFkkyw",
+      "url": "https://www.youtube.com/watch?v=W9XjRYFkkyw",
+      "title": "Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes",
+      "description": null,
+      "duration": 1047,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/W9XjRYFkkyw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtabWtDXndpn1DQwt0uFyv67nucg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W9XjRYFkkyw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvVOB5OIo3xULaMaoGR8bby__fVQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W9XjRYFkkyw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC7gSQnxxDwZLwN8ERsH3mJ3LOkg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/W9XjRYFkkyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrrjiPrZg4TNoh6G5Cifg7aIN4Bg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 384000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Lw2rlcxScZY",
+      "url": "https://www.youtube.com/watch?v=Lw2rlcxScZY",
+      "title": "Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns",
+      "description": null,
+      "duration": 1384,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Lw2rlcxScZY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCN4NnPgUkVl2yRZoYvQYQBcLhffA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Lw2rlcxScZY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBY5BcaOsB-VOqzwShsH1kI408dAA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Lw2rlcxScZY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBAxdm-bWWJlB_38XAFCsSGf7EEw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Lw2rlcxScZY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtqcVTspC_SJfQsDZNeX7fkKV4og",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 431000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "DCDe29sIKcE",
+      "url": "https://www.youtube.com/watch?v=DCDe29sIKcE",
+      "title": "Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames",
+      "description": null,
+      "duration": 2403,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/DCDe29sIKcE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQwOVvKoFYNvCHuwzNDABzz3BXeQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DCDe29sIKcE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPf56SKVjVMyA8LA81jKUovE1OfQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DCDe29sIKcE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZv8cl_4qx07zCzm3flwJC6BSQ8A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DCDe29sIKcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAmU0pyKxU5yMZ6rj5rw0FWtLSqA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 383000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "HQ6XO9eT-fc",
+      "url": "https://www.youtube.com/watch?v=HQ6XO9eT-fc",
+      "title": "Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames",
+      "description": null,
+      "duration": 1015,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/HQ6XO9eT-fc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxoPBOOSt8hjAbvK2w1qwRksbMfQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HQ6XO9eT-fc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJTig-b4C334MXFXPpIAtMtuVXdg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HQ6XO9eT-fc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeFvGXbo_qSVd3RE7-kLDaFqO4BA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HQ6XO9eT-fc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmvaldGmuxZsV-lmgPms9EtBo10w",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 270000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "T11QYVfZoD0",
+      "url": "https://www.youtube.com/watch?v=T11QYVfZoD0",
+      "title": "Python Pandas Tutorial (Part 7): Sorting Data",
+      "description": null,
+      "duration": 940,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/T11QYVfZoD0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCugS5aKSM8sUtKZPu0tybFUlj0lg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T11QYVfZoD0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATF3YfMT5NhGd0C62P1dywvi_rzg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T11QYVfZoD0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE0LZ0riETe1V1oXBBuOfaCsfYQw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/T11QYVfZoD0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_lhdSqE5IUh3Mt1z46kxPrN9fWA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 177000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "txMdrV1Ut64",
+      "url": "https://www.youtube.com/watch?v=txMdrV1Ut64",
+      "title": "Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data",
+      "description": null,
+      "duration": 2946,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/txMdrV1Ut64/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxAJXu31D1eJmrF1gukpqEE5eqbg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/txMdrV1Ut64/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCj9rIjGMiEXEamoaxuomTGyGL7Fw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/txMdrV1Ut64/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuR2ttaJmxN4gfbpG_9J9eK5ZsMQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/txMdrV1Ut64/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYh9StBc74RklsLSNoG-EzEnbcJQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 410000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "KdmPHEnPJPs",
+      "url": "https://www.youtube.com/watch?v=KdmPHEnPJPs",
+      "title": "Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values",
+      "description": null,
+      "duration": 1914,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KdmPHEnPJPs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzxoWzt-vgLZKksmnN7-g7eeAv_g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KdmPHEnPJPs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGle9iO9aG0ocobOrPf02kJwf17g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KdmPHEnPJPs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwiUdwmM8m6-9Hj3O0sprnkpZl-A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KdmPHEnPJPs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBDA1XyndDNGIKQ2_Ek69EhAD-Jw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 222000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "UFuo7EHI8zc",
+      "url": "https://www.youtube.com/watch?v=UFuo7EHI8zc",
+      "title": "Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data",
+      "description": null,
+      "duration": 2141,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UFuo7EHI8zc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXKDOUJEuZR2eCTblZ5CHT9FnFiA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UFuo7EHI8zc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6a3SdyeqVwY4D_7Rj16D7T3OqKg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UFuo7EHI8zc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1XOCjM8M2NLHVzD8iKKgkPUFhNA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UFuo7EHI8zc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG1aEyet6GYRYV1fpOmbUXh0JOZw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 306000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "N6hyN6BW6ao",
+      "url": "https://www.youtube.com/watch?v=N6hyN6BW6ao",
+      "title": "Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",
+      "description": null,
+      "duration": 1965,
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "channel": "Corey Schafer",
+      "channel_url": "https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g",
+      "uploader": "Corey Schafer",
+      "uploader_id": "@coreyms",
+      "uploader_url": "https://www.youtube.com/@coreyms",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/N6hyN6BW6ao/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbhTHHE3WGYxWFaEi88cSaezaDGA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N6hyN6BW6ao/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsHZOPYiu9WH-G98sR4gOa6lAKXQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N6hyN6BW6ao/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi-or3BDSNZ_itFDRrrzkJ183Ytw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N6hyN6BW6ao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2-48zLX9nW_wWm5NhWoOepempKQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 172000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+  "original_url": "https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1715784122
+}
